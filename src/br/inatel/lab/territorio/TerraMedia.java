@@ -1,7 +1,5 @@
 package br.inatel.lab.territorio;
 
-import java.text.Annotation;
-
 import br.inatel.lab.habitante.Anao;
 import br.inatel.lab.habitante.Elfo;
 import br.inatel.lab.habitante.Habitante;
